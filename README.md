@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keyul Patel
-- 👀 I’m interested in Backend development mostly and exploring Full Stack, DevOps, Data Analytics, and AI.
-- 🌱 I’m currently doing Full Stack Development using .Net core, react, and angular following Scrum. 
+- 👀 I’m interested in Backend development mostly and exploring Full Stack, Cloud, DevOps, Data Analytics, and AI.
+- 🌱 I’m currently doing Full Stack Development using .Net core, react, and angular following Scrum, utilizing Cloud. 
 - 💞️ I’m looking to collaborate on .Net core
 - 📫 How to reach me - 📧 Email: keyulpatel04@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/keyulpatel/
 - 😄 Pronouns: Keyul
